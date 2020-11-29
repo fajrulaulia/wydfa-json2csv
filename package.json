@@ -7,5 +7,23 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Fajrul Aulia",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fajrulaulia/wydfa-json2csv.git"
+  },
+  "keywords": [
+    "csv",
+    "json",
+    "to",
+    "csv",
+    "convert",
+    "json",
+    "to",
+    "csv"
+  ],
+  "bugs": {
+    "url": "https://github.com/fajrulaulia/wydfa-json2csv/issues"
+  },
+  "homepage": "https://github.com/fajrulaulia/wydfa-json2csv#readme"
 }
